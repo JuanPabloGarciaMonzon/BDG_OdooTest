@@ -46,7 +46,7 @@ secrets:
   postgresql_password:
     file: odoo_pg_pass "local file"
 ```
-After Odoo is deployed
+After Odoo is deployed with the command "sudo docker-compose up"
 ![](images/WSL1.png)
 ![](images/WSL2.png)
 
